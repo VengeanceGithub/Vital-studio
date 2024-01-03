@@ -1,0 +1,48 @@
+
+body{
+    background-color: crimson;
+   }
+h1{
+    color:aliceblue;
+    /*
+    -webkit-text-stroke: 2px black;
+    */
+}
+p{
+    color: aliceblue; 
+}
+button{
+   padding: 10px;
+}
+#b1{
+    background-color:aliceblue;border-radius:8px ;border-width: 2px;
+
+}
+#b2{
+    background-color: bisque;border-radius: 8px;
+}
+img{
+
+    /*margin-left: 80%;
+    */
+    margin-top: 5%;
+    float: right;
+    position: sticky;
+    top: 50px;
+
+}
+
+#des{
+
+    color: black;
+    background-color:white;
+    border-style: outset;
+    border-width: 5px;
+    border-color: gold;
+    border-radius: 10px;
+    padding: 5px;
+    
+}
+#num{
+    margin-left: 10%;
+}
